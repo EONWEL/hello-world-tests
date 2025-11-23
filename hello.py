@@ -1,6 +1,6 @@
 def hello():
     # Return the greeting string
-    return "Hello, World!"
+    return "Hi, World!"
 
 
 if __name__ == "__main__":
