@@ -1,4 +1,5 @@
 def hello():
+    meaning_of_life = 42
     # Return the greeting string
     return "Hello, World!"
 
